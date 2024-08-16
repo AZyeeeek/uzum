@@ -21,7 +21,7 @@
                   <img
                     data-v-3a87e086=""
                     class="fast_cat"
-                    src="https://static.uzum.uz/fast_categories/%D0%A7%D0%B8%D0%BB%D0%BB%D1%8F.png"
+                    src="../assets/img/chilla.png"
                     alt=""
                   />
                 </div>
