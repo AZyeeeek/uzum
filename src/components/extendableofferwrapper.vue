@@ -23,7 +23,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cq176er6eisq2rke8830/t_product_540_high.jpg#1723743618103"
+                                            src="../assets/img/tush.jpg"
                                             alt="Kipriklar uchun tush L'Oreal Paris Telescopic, qora" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -133,7 +133,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cqjmpf4sslomdvnikp3g/t_product_540_high.jpg#1723743618104"
+                                            src="../assets/img/bryusa.jpg"
                                             alt="Ikki kamerali muzlatgich Бирюса M120, hajmi 205 litr" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -232,13 +232,13 @@
                     <div data-v-0204b731="" ui-card="" class="ui-card">
                         <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
                             <!---->
-                            <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
+                            <.div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
                                     data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/ofis-texnikalari-uchun-106839"
                                     title="Ofis texnikalari uchun qog'oz varaqlari Sylvamo Svetotopy, A4f C07/3, 500 varaq">
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/ck1descvutvccfo27mn0/t_product_540_high.jpg#1723743618104"
+                                            src="../assets/img/svetocopy.jpg"
                                             alt="Ofis texnikalari uchun qog'oz varaqlari Sylvamo Svetotopy, A4f C07/3, 500 varaq"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -344,7 +344,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cqti90dbntafgos1v650/t_product_540_high.jpg#1723743618104"
+                                            src="../assets/img/palmolive.jpg"
                                             alt="Dush uchun gel-krem Palmolive Naturel Zaytun ekstrakti bilan intensiv namlovchi, 750 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -451,7 +451,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cqho2vkqvsse8letas8g/t_product_540_high.jpg#1723743618105"
+                                            src="../assets/img/elseve.jpg"
                                             alt="Balzam L'Oreal Paris Elseve gialuron, suvsizlangan va ingichka sochlar uchun, 200 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -562,7 +562,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cd76j335a95unf132h7g/t_product_540_high.jpg#1723743618105"
+                                            src="../assets/img/nenni.jpg"
                                             alt="Quruq sut aralashmasi Нэнни, echki suti, 0-12 oy, 800 g" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -662,7 +662,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cqmcp0sqvsse8leu98n0/t_product_540_high.jpg#1723743618105"
+                                            src="../assets/img/fairy.jpg"
                                             alt="Idish yuvish uchun vosita Fairy, limon, 450 ml" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -767,7 +767,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/coj4tt9lehjjh9gicngg/t_product_540_high.jpg#1723743618106"
+                                            src="../assets/img/niveamen.jpg"
                                             alt="NIVEA MEN dush uchun gel, dengiz minerallari bilan uyg'otuvchi, 250 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -878,7 +878,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/coj4ocn0sttt9lm4lmpg/t_product_540_high.jpg#1723743618106"
+                                            src="../assets/img/niveaugl.jpg"
                                             alt="NIVEA MEN dush uchun gel, faol uglerodli ko'mir quvvati, 500 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -989,7 +989,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/coj4ichlehjjh9gicglg/t_product_540_high.jpg#1723743618106"
+                                            src="../assets/img/niveaqiz.jpg"
                                             alt="Ayollar uchun NIVEA dush geli, limon o'tining sarhilligi tomchi yog' bilan, 250 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -1061,222 +1061,6 @@
                                         27&nbsp;000 so'm
                                     </span></div> <button data-v-10380025="" data-v-cee4be4c=""
                                     title=" Ayollar uchun NIVEA dush geli, limon o'tining sarhilligi tomchi yog' bilan, 250 mlni savatga qoʻshish"
-                                    data-test-id="button__add-to-cart"
-                                    class="ui-component ui-button add-to-cart tertiary-outlined small fill"><!---->
-                                    <div data-v-10380025="" class="slot default"><svg data-v-cee4be4c="" width="24"
-                                            height="24" viewBox="0 0 24 24" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg" class="ui-icon  add-cart-icon">
-                                            <path
-                                                d="M8 10V8H6V12.5C6 12.7761 5.77614 13 5.5 13C5.22386 13 5 12.7761 5 12.5V7H8C8 4.59628 9.95227 3 12 3C14.0575 3 16 4.70556 16 7H19V19.5C19 20.3284 18.3284 21 17.5 21H12.5C12.2239 21 12 20.7761 12 20.5C12 20.2239 12.2239 20 12.5 20H17.5C17.7761 20 18 19.7761 18 19.5V8H16V10H15V8H9V10H8ZM12 4C10.4477 4 9 5.20372 9 7H15C15 5.29444 13.5425 4 12 4Z"
-                                                fill="black"></path>
-                                            <path
-                                                d="M7.5 14C7.77614 14 8 14.2239 8 14.5V17H10.5C10.7761 17 11 17.2239 11 17.5C11 17.7761 10.7761 18 10.5 18H8V20.5C8 20.7761 7.77614 21 7.5 21C7.22386 21 7 20.7761 7 20.5V18H4.5C4.22386 18 4 17.7761 4 17.5C4 17.2239 4.22386 17 4.5 17H7V14.5C7 14.2239 7.22386 14 7.5 14Z"
-                                                fill="black"></path>
-                                        </svg></div> <!---->
-                                </button>
-                            </div> <!---->
-                        </div> <!---->
-                    </div> <!---->
-                </div>
-                <div data-v-0204b731="" data-v-97e137b8="" data-test-id="item__product-card"
-                    class="card product-card tap-noselect noselect is-vertical"><!---->
-                    <div data-v-0204b731="" ui-card="" class="ui-card">
-                        <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
-                            <!---->
-                            <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/nivea-care-yuz-uchun-gel-e-20313"
-                                    title="NIVEA Care yuz uchun gel, E vitamini bilan, 225 ml">
-                                    <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
-                                        <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
-                                            data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/coj51fhlehjjh9gicpkg/t_product_540_high.jpg#1723743618106"
-                                            alt="NIVEA Care yuz uchun gel, E vitamini bilan, 225 ml" loading="lazy"
-                                            class="main-card-icon-and-classname-collision-made-to-minimum">
-                                    </div> <!----> <!---->
-                                </a></div> <!---->
-                            <div data-v-04a70945="" class="badge-container product-card__badges badge-container--card">
-                                <div class="badge-list">
-                                    <div data-test-id="text__product-badge" class="badge badge badge--small"
-                                        style="background: rgb(255, 48, 144);"><!----> <span class="text"
-                                            style="color: rgb(255, 255, 255);">
-                                            Aksiya
-                                        </span></div>
-                                    <div data-test-id="text__product-badge" class="badge badge badge--small"
-                                        style="background: rgb(47, 0, 107);"><!----> <span class="text"
-                                            style="color: rgb(255, 255, 0);">
-                                            Original
-                                        </span></div> <!---->
-                                </div>
-                            </div> <button data-v-04a70945="" ui-button="" class="noselect product-card-like"
-                                title="NIVEA Care yuz uchun gel, E vitamini bilan, 225 mlni saralanganga qoʻshish"
-                                data-test-id="button__add-to-favorites">
-                                <div class="ripple " style="top: 0px; left: 0px; width: 0px; height: 0px;"></div> <svg
-                                    data-v-04a70945="" width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg" alt="like" class="ui-icon ">
-                                    <path
-                                        d="M5.95 2C8.51792 2 10 4.15234 10 4.15234C10 4.15234 11.485 2 14.05 2C16.705 2 19 4.07 19 6.95C19 11.1805 12.5604 15.6197 10.3651 17.5603C10.1582 17.7432 9.84179 17.7432 9.63488 17.5603C7.44056 15.6209 1 11.1803 1 6.95C1 4.07 3.295 2 5.95 2Z"
-                                        fill="white" fill-opacity="0.8"></path>
-                                    <path
-                                        d="M1 6.86486C1 4.20297 3.15017 2 5.86486 2C7.98685 2 9.35921 3.35876 10 4.18673C10.6408 3.35876 12.0132 2 14.1351 2C16.8506 2 19 4.20302 19 6.86486C19 8.02987 18.5328 9.18622 17.8534 10.265C17.1716 11.3476 16.252 12.3903 15.29 13.3377C13.9567 14.6508 12.4757 15.8387 11.4134 16.6907C10.9618 17.0529 10.5859 17.3544 10.3293 17.579C10.1407 17.7439 9.85926 17.7439 9.67075 17.579C9.41405 17.3544 9.03815 17.0529 8.58659 16.6907C7.52431 15.8387 6.04326 14.6508 4.70997 13.3377C3.74802 12.3903 2.82836 11.3476 2.14659 10.265C1.46724 9.18622 1 8.02987 1 6.86486ZM5.86486 3C3.70929 3 2 4.74838 2 6.86486C2 7.76743 2.36553 8.73607 2.99277 9.73208C3.61759 10.7242 4.47833 11.706 5.41165 12.6252C6.71033 13.9042 8.08423 15.005 9.13396 15.8461C9.45728 16.1052 9.74985 16.3396 10 16.547C10.2501 16.3396 10.5427 16.1052 10.866 15.8461C11.9158 15.005 13.2897 13.9042 14.5883 12.6252C15.5217 11.706 16.3824 10.7242 17.0072 9.73208C17.6345 8.73607 18 7.76743 18 6.86486C18 4.74833 16.2914 3 14.1351 3C12.0406 3 10.8181 4.70211 10.5033 5.21028C10.2727 5.5825 9.72727 5.58249 9.4967 5.21027C9.1819 4.7021 7.95944 3 5.86486 3Z"
-                                        fill="#15151A"></path>
-                                </svg>
-                            </button>
-                        </div>
-                        <div data-v-cee4be4c="" data-v-0204b731="" class="card-info-block is-vertical">
-                            <div data-v-cee4be4c="" class="subtitle slightly regular small-semi-bold"><a
-                                    data-v-63ab6fb4="" data-v-cee4be4c="" itemprop="name" ui-link=""
-                                    href="/uz/product/nivea-care-yuz-uchun-gel-e-20313"
-                                    data-test-id="text__product-name" class="subtitle-item">
-                                    NIVEA Care yuz uchun gel, E vitamini bilan, 225 ml
-                                </a></div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs">
-                                <div data-v-cee4be4c="" class="product-card-rating middle-mbs"><span data-v-cee4be4c=""
-                                        data-test-id="text__orders" class="orders"><span data-v-cee4be4c=""
-                                            class="hidden-mbs visible-mbl raiting-wrapper"><svg data-v-cee4be4c=""
-                                                width="14" height="14" viewBox="0 0 18 18" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg" data-test-id="icon__rating-star"
-                                                class="ui-icon  rating-icon">
-                                                <path
-                                                    d="M9 12.9525L13.635 15.75L12.405 10.4775L16.5 6.93L11.1075 6.4725L9 1.5L6.8925 6.4725L1.5 6.93L5.595 10.4775L4.365 15.75L9 12.9525Z"
-                                                    fill="#F5A623"></path>
-                                            </svg>
-                                            &nbsp;
-                                            <span data-v-cee4be4c="" data-test-id="text__rating">
-                                                4.8
-                                            </span></span> <span data-v-cee4be4c="" class="orders__feedback-amount">
-                                            (83 sharhlar)
-                                        </span></span></div> <!---->
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs"><!---->
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs">
-                                <div data-v-cee4be4c="" class="badge-container installment-badge">
-                                    <div class="badge-list">
-                                        <div data-test-id="text__product-badge" class="badge badge badge--medium"
-                                            style="background: rgb(255, 255, 0);"><!----> <span class="text"
-                                                style="color: rgb(31, 31, 38);">
-                                                5 016 so'm/oyiga
-                                            </span></div> <!---->
-                                    </div>
-                                </div>
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-main-info-wrapper">
-                                <div data-v-cee4be4c="" class="product-card-price-info"><span data-v-cee4be4c=""
-                                        class="product-card-old-price-and-discount"><span data-v-cee4be4c=""
-                                            class="currency product-card-old-price regular"
-                                            data-test-id="text__old-price">
-                                            64&nbsp;000
-                                        </span> <!----></span> <span data-v-cee4be4c=""
-                                        class="currency product-card-price slightly medium" data-test-id="text__price">
-                                        43&nbsp;000 so'm
-                                    </span></div> <button data-v-10380025="" data-v-cee4be4c=""
-                                    title=" NIVEA Care yuz uchun gel, E vitamini bilan, 225 mlni savatga qoʻshish"
-                                    data-test-id="button__add-to-cart"
-                                    class="ui-component ui-button add-to-cart tertiary-outlined small fill"><!---->
-                                    <div data-v-10380025="" class="slot default"><svg data-v-cee4be4c="" width="24"
-                                            height="24" viewBox="0 0 24 24" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg" class="ui-icon  add-cart-icon">
-                                            <path
-                                                d="M8 10V8H6V12.5C6 12.7761 5.77614 13 5.5 13C5.22386 13 5 12.7761 5 12.5V7H8C8 4.59628 9.95227 3 12 3C14.0575 3 16 4.70556 16 7H19V19.5C19 20.3284 18.3284 21 17.5 21H12.5C12.2239 21 12 20.7761 12 20.5C12 20.2239 12.2239 20 12.5 20H17.5C17.7761 20 18 19.7761 18 19.5V8H16V10H15V8H9V10H8ZM12 4C10.4477 4 9 5.20372 9 7H15C15 5.29444 13.5425 4 12 4Z"
-                                                fill="black"></path>
-                                            <path
-                                                d="M7.5 14C7.77614 14 8 14.2239 8 14.5V17H10.5C10.7761 17 11 17.2239 11 17.5C11 17.7761 10.7761 18 10.5 18H8V20.5C8 20.7761 7.77614 21 7.5 21C7.22386 21 7 20.7761 7 20.5V18H4.5C4.22386 18 4 17.7761 4 17.5C4 17.2239 4.22386 17 4.5 17H7V14.5C7 14.2239 7.22386 14 7.5 14Z"
-                                                fill="black"></path>
-                                        </svg></div> <!---->
-                                </button>
-                            </div> <!---->
-                        </div> <!---->
-                    </div> <!---->
-                </div>
-                <div data-v-0204b731="" data-v-97e137b8="" data-test-id="item__product-card"
-                    class="card product-card tap-noselect noselect is-vertical"><!---->
-                    <div data-v-0204b731="" ui-card="" class="ui-card">
-                        <div data-v-04a70945="" data-v-0204b731="" class="product-card-image noselect is-vertical">
-                            <!---->
-                            <div data-v-592a2839="" data-v-04a70945="" class="preview-wrapper"><a data-v-63ab6fb4=""
-                                    data-v-592a2839="" ui-link=""  class="reklama" href="/uz/product/oyoqlar-uchun-krempasta-60"
-                                    title="Oyoqlar uchun krem-pasta Теймурова, hid va terlashga qarshi kuchli vosita, 50 gr">
-                                    <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
-                                        <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
-                                            data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://images.uzum.uz/cbd58mcff5b139c18hq0/t_product_540_high.jpg#1723743618107"
-                                            alt="Oyoqlar uchun krem-pasta Теймурова, hid va terlashga qarshi kuchli vosita, 50 gr"
-                                            loading="lazy"
-                                            class="main-card-icon-and-classname-collision-made-to-minimum">
-                                    </div> <!----> <!---->
-                                </a></div> <!---->
-                            <div data-v-04a70945="" class="badge-container product-card__badges badge-container--card">
-                                <div class="badge-list">
-                                    <div data-test-id="text__product-badge" class="badge badge badge--small"
-                                        style="background: rgb(255, 48, 144);"><!----> <span class="text"
-                                            style="color: rgb(255, 255, 255);">
-                                            Aksiya
-                                        </span></div> <!---->
-                                </div>
-                            </div> <button data-v-04a70945="" ui-button="" class="noselect product-card-like"
-                                title="Oyoqlar uchun krem-pasta Теймурова, hid va terlashga qarshi kuchli vosita, 50 grni saralanganga qoʻshish"
-                                data-test-id="button__add-to-favorites">
-                                <div class="ripple " style="top: 0px; left: 0px; width: 0px; height: 0px;"></div> <svg
-                                    data-v-04a70945="" width="20" height="20" viewBox="0 0 20 20" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg" alt="like" class="ui-icon ">
-                                    <path
-                                        d="M5.95 2C8.51792 2 10 4.15234 10 4.15234C10 4.15234 11.485 2 14.05 2C16.705 2 19 4.07 19 6.95C19 11.1805 12.5604 15.6197 10.3651 17.5603C10.1582 17.7432 9.84179 17.7432 9.63488 17.5603C7.44056 15.6209 1 11.1803 1 6.95C1 4.07 3.295 2 5.95 2Z"
-                                        fill="white" fill-opacity="0.8"></path>
-                                    <path
-                                        d="M1 6.86486C1 4.20297 3.15017 2 5.86486 2C7.98685 2 9.35921 3.35876 10 4.18673C10.6408 3.35876 12.0132 2 14.1351 2C16.8506 2 19 4.20302 19 6.86486C19 8.02987 18.5328 9.18622 17.8534 10.265C17.1716 11.3476 16.252 12.3903 15.29 13.3377C13.9567 14.6508 12.4757 15.8387 11.4134 16.6907C10.9618 17.0529 10.5859 17.3544 10.3293 17.579C10.1407 17.7439 9.85926 17.7439 9.67075 17.579C9.41405 17.3544 9.03815 17.0529 8.58659 16.6907C7.52431 15.8387 6.04326 14.6508 4.70997 13.3377C3.74802 12.3903 2.82836 11.3476 2.14659 10.265C1.46724 9.18622 1 8.02987 1 6.86486ZM5.86486 3C3.70929 3 2 4.74838 2 6.86486C2 7.76743 2.36553 8.73607 2.99277 9.73208C3.61759 10.7242 4.47833 11.706 5.41165 12.6252C6.71033 13.9042 8.08423 15.005 9.13396 15.8461C9.45728 16.1052 9.74985 16.3396 10 16.547C10.2501 16.3396 10.5427 16.1052 10.866 15.8461C11.9158 15.005 13.2897 13.9042 14.5883 12.6252C15.5217 11.706 16.3824 10.7242 17.0072 9.73208C17.6345 8.73607 18 7.76743 18 6.86486C18 4.74833 16.2914 3 14.1351 3C12.0406 3 10.8181 4.70211 10.5033 5.21028C10.2727 5.5825 9.72727 5.58249 9.4967 5.21027C9.1819 4.7021 7.95944 3 5.86486 3Z"
-                                        fill="#15151A"></path>
-                                </svg>
-                            </button>
-                        </div>
-                        <div data-v-cee4be4c="" data-v-0204b731="" class="card-info-block is-vertical">
-                            <div data-v-cee4be4c="" class="subtitle slightly regular small-semi-bold"><a
-                                    data-v-63ab6fb4="" data-v-cee4be4c="" itemprop="name" ui-link=""
-                                    href="/uz/product/oyoqlar-uchun-krempasta-60" data-test-id="text__product-name"
-                                    class="subtitle-item">
-                                    Oyoqlar uchun krem-pasta Теймурова, hid va terlashga qarshi kuchli vosita, 50 gr
-                                </a></div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs">
-                                <div data-v-cee4be4c="" class="product-card-rating middle-mbs"><span data-v-cee4be4c=""
-                                        data-test-id="text__orders" class="orders"><span data-v-cee4be4c=""
-                                            class="hidden-mbs visible-mbl raiting-wrapper"><svg data-v-cee4be4c=""
-                                                width="14" height="14" viewBox="0 0 18 18" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg" data-test-id="icon__rating-star"
-                                                class="ui-icon  rating-icon">
-                                                <path
-                                                    d="M9 12.9525L13.635 15.75L12.405 10.4775L16.5 6.93L11.1075 6.4725L9 1.5L6.8925 6.4725L1.5 6.93L5.595 10.4775L4.365 15.75L9 12.9525Z"
-                                                    fill="#F5A623"></path>
-                                            </svg>
-                                            &nbsp;
-                                            <span data-v-cee4be4c="" data-test-id="text__rating">
-                                                4.9
-                                            </span></span> <span data-v-cee4be4c="" class="orders__feedback-amount">
-                                            (82 sharhlar)
-                                        </span></span></div> <!---->
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs"><!---->
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-secondary-info between-mbs middle-mbs">
-                                <div data-v-cee4be4c="" class="badge-container installment-badge">
-                                    <div class="badge-list">
-                                        <div data-test-id="text__product-badge" class="badge badge badge--medium"
-                                            style="background: rgb(255, 255, 0);"><!----> <span class="text"
-                                                style="color: rgb(31, 31, 38);">
-                                                2 216 so'm/oyiga
-                                            </span></div> <!---->
-                                    </div>
-                                </div>
-                            </div>
-                            <div data-v-cee4be4c="" class="product-card-main-info-wrapper">
-                                <div data-v-cee4be4c="" class="product-card-price-info"><span data-v-cee4be4c=""
-                                        class="product-card-old-price-and-discount"><span data-v-cee4be4c=""
-                                            class="currency product-card-old-price regular"
-                                            data-test-id="text__old-price">
-                                            34&nbsp;000
-                                        </span> <!----></span> <span data-v-cee4be4c=""
-                                        class="currency product-card-price slightly medium" data-test-id="text__price">
-                                        19&nbsp;000 so'm
-                                    </span></div> <button data-v-10380025="" data-v-cee4be4c=""
-                                    title=" Oyoqlar uchun krem-pasta Теймурова, hid va terlashga qarshi kuchli vosita, 50 grni savatga qoʻshish"
                                     data-test-id="button__add-to-cart"
                                     class="ui-component ui-button add-to-cart tertiary-outlined small fill"><!---->
                                     <div data-v-10380025="" class="slot default"><svg data-v-cee4be4c="" width="24"
