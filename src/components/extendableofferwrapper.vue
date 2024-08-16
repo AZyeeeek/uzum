@@ -1080,7 +1080,6 @@
                 </div>
             </div> <!---->
         </div>
-    </div>
 </template>
 <style>
 .extendableofferwrapper{
