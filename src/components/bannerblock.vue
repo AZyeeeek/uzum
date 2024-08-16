@@ -74,13 +74,13 @@ export default {
         {
           link: "https://uzum.uz/uz/category/shkolnyj-bazar--512",
           image:
-            "../assets/img/maktab.jpg",
+            "https://drive.google.com/file/d/1Yfo-XjdqFIwJeCvBD6BCIGqUPWU-9fXY/view?usp=drive_link",
           alt: "Uzum aksiyalari, mahsulotlar termasi va xabarlari",
         },
         {
           link: "https://uzum.uz/promo/pepsi",
           image:
-            "../assets/img/pepsi.jpg",
+            "https://drive.google.com/file/d/1o0qa80K-n-rcFu1v6rHz9C8RIf9vaKcw/view?usp=drive_link",
           alt: "Uzum aksiyalari, mahsulotlar termasi va xabarlari",
         },
         // Add more slides here as needed
