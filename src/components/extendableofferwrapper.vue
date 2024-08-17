@@ -23,7 +23,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/14sMl849JCayHKuGYUVk02vTiZKH4SeVd/view?usp=drive_link"
+                                            src="https://ibb.co/T8d9FQd"
                                             alt="Kipriklar uchun tush L'Oreal Paris Telescopic, qora" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -133,7 +133,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1s2iteZnr95DximvMAyv4h8DwuKKmJDbj/view?usp=drive_link"
+                                            src="https://ibb.co/jbhvPN4"
                                             alt="Ikki kamerali muzlatgich Бирюса M120, hajmi 205 litr" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -238,7 +238,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1LWvmpBocUDVG0Sz5heZiN2ltL0ldYSMj/view?usp=drive_link"
+                                            src="https://ibb.co/LhM1F80"
                                             alt="Ofis texnikalari uchun qog'oz varaqlari Sylvamo Svetotopy, A4f C07/3, 500 varaq"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -344,7 +344,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1QY3Pb8mymUkIQtJC7v-dfdfRtLGegV4H/view?usp=drive_link"
+                                            src="https://ibb.co/HKMSpfZ"
                                             alt="Dush uchun gel-krem Palmolive Naturel Zaytun ekstrakti bilan intensiv namlovchi, 750 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -451,7 +451,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1A0jNpZkKdEbUEmc3d040lie6ToWfyndk/view?usp=drive_link"
+                                            src="https://ibb.co/3y1ggy5"
                                             alt="Balzam L'Oreal Paris Elseve gialuron, suvsizlangan va ingichka sochlar uchun, 200 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -562,7 +562,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1aLpJvYF1Sk1X4GlVwVDvPAFR7Coxrv7w/view?usp=drive_link"
+                                            src="https://ibb.co/0X9dSqW"
                                             alt="Quruq sut aralashmasi Нэнни, echki suti, 0-12 oy, 800 g" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -662,7 +662,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1877XYssQ_l6E_cHFEgZP_2l2u6IasTw1/view?usp=drive_link"
+                                            src="https://ibb.co/rb0R8NB"
                                             alt="Idish yuvish uchun vosita Fairy, limon, 450 ml" loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
                                     </div> <!----> <!---->
@@ -767,7 +767,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1wfhED8ELfixeXsamqoe2rCVLlAUL6hCq/view?usp=drive_link"
+                                            src="https://ibb.co/nRsrcx0"
                                             alt="NIVEA MEN dush uchun gel, dengiz minerallari bilan uyg'otuvchi, 250 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -878,7 +878,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1XT6tVMyg9o_28GvyI45TunR9lT-5yfjP/view?usp=drive_link"
+                                            src="https://ibb.co/N700Nzz"
                                             alt="NIVEA MEN dush uchun gel, faol uglerodli ko'mir quvvati, 500 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
@@ -989,7 +989,7 @@
                                     <div data-v-592a2839="" data-v-63ab6fb4="" class="image-wrapper">
                                         <div data-v-592a2839="" data-v-63ab6fb4="" class="image-cover"></div> <img
                                             data-v-592a2839="" data-v-63ab6fb4=""
-                                            src="https://drive.google.com/file/d/1_1JpiF1EQbvIepo4Jnou0EY0hLMB8Lnd/view?usp=drive_link"
+                                            src="https://ibb.co/4g6GNQG"
                                             alt="Ayollar uchun NIVEA dush geli, limon o'tining sarhilligi tomchi yog' bilan, 250 ml"
                                             loading="lazy"
                                             class="main-card-icon-and-classname-collision-made-to-minimum">
