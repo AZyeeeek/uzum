@@ -1796,7 +1796,7 @@ product-card-old-price-and-discount{
     border-radius: 50%;
     box-sizing: border-box;
     height: 32px;
-    padding: 3.5px
+    padding: 3.5px;
     width: 32px;
 }
 .slot.default{
