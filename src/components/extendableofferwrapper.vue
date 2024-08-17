@@ -1672,4 +1672,134 @@
     padding: 1px 4px;
     background: rgb(255, 255, 0);
 }
+.product-card-main-info-wrapper{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
+.product-card-price-info{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: flex;
+    flex-direction: column;
+}
+.product-card-old-price-and-discount{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    align-items: center;
+    display: flex;
+    gap: 4px;
+    height: 16px;
+}
+.currency.product-card-old-price.regular{
+     user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: inline-block;
+    font-weight: 400;
+    font-family: Inter;
+    font-size: .7rem;
+    text-decoration: line-through;
+    color:#7e818c;
+    line-height: 16px;
+}
+.currency.product-card-price.slightly.medium{
+     user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: inline-block;
+    font-weight: 500;
+    color:#1f2026;
+    font-family: Inter;
+    font-size: .875rem;
+    height: 15px;
+    line-height: 120%;
+    margin-top: 2px;
+}
+.ui-component.ui-button.add-to-cart.tertiary-outlined.small.fill{
+     user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    outline: 0;
+    margin: 0;
+    align-items: center;
+    align-self: center;
+    background-color:transparent;
+    border: none;
+    color:#1f2026;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    text-decoration: none;
+    transition: all .2s;
+    --border-radius: 10px;
+    column-gap: 6px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: .006em;
+    line-height:v 18px;
+    text-align: center;
+    --bg-color: transparent;
+    --color:#1f2026;
+    box-shadow: 0 0 0 1px rgba(54,55,64,.2) inset;
+    border-radius: 50%;
+    box-sizing: border-box;
+    height: 32px;
+    padding: 3.5px
+    width: 32px;
+}
+.slot.default{
+              
+}
 </style>
