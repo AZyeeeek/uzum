@@ -1204,7 +1204,7 @@
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
     box-sizing: border-box;
-    height:120px;
+    height:130px;
     margin: 0;
     padding: 0;
     border: 0;
@@ -1468,5 +1468,27 @@
     transition: opacity .3s ease;
     width: 24px;
     z-index: 2;
+}
+.text__orders{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    color: #7e818c;
+    font-family: Inter;
+    font-weight: 300;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    align-items: center;
+    display: flex;
+    margin-top: 4px;
+    overflow: hidden;
 }
 </style>
