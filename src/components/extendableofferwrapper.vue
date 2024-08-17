@@ -1160,7 +1160,7 @@
     border-radius: 8px;
     cursor: pointer;
     display: block;
-    height:500px;
+    height:470px;
     opacity: 1;
     overflow: hidden;
     position: relative;
@@ -1180,7 +1180,7 @@
     transition: box-shadow .3s ease;
     border: 0;
     background-color:#fff;
-    height: 500px;
+    height: 470px;
     padding: 0;
 }
 .product-card-image{
@@ -1204,7 +1204,7 @@
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
     box-sizing: border-box;
-    height:150px;
+    height:120px;
     margin: 0;
     padding: 0;
     border: 0;
