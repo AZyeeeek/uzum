@@ -1180,12 +1180,12 @@
     transition: box-shadow .3s ease;
     border: 0;
     background-color:#fff;
-    height: 400px;
+    height: 600px;
     padding: 0;
 }
 .product-card-image{
     cursor: pointer;
-    height:90%;
+    height:350px;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
