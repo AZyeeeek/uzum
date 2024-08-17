@@ -1593,5 +1593,83 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
-
+.product-card-secondary-info.between-mbs.middle-mbs{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    display: flex;
+}
+.badge-container.installment-badge{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    justify-content: flex-end;
+    margin: 2px 2px 2px 0;
+    max-height: 23px;
+}
+.badge-list{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+.badge.badge.badge--medium{
+     user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    align-items: center;
+    display: flex;
+    gap: 4px;
+    border-radius: 4px;
+    font-size: 12px;
+    height: 18px;
+    line-height: 16px;
+    padding: 1px 4px;
+    background: rgb(255, 255, 0);
+}
 </style>
