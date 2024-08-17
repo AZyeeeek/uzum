@@ -1707,7 +1707,7 @@ div.product-card-price-info{
     display: flex;
     flex-direction: column;
 }
-div.product-card-old-price-and-discount{
+product-card-old-price-and-discount{
      line-height: 1;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -1726,7 +1726,7 @@ div.product-card-old-price-and-discount{
     gap: 4px;
     height: 16px;
 }
-span.currency.product-card-old-price.regular{
+.product-card-old-price{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
@@ -1746,7 +1746,7 @@ span.currency.product-card-old-price.regular{
     color:#7e818c;
     line-height: 16px;
 }
-span.currency.product-card-price.slightly.medium{
+.product-card-price{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
@@ -1767,7 +1767,7 @@ span.currency.product-card-price.slightly.medium{
     line-height: 120%;
     margin-top: 2px;
 }
-button.ui-component.ui-button.add-to-cart.tertiary-outlined.small.fill{
+.add-to-cart{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     outline: 0;
@@ -1800,6 +1800,6 @@ button.ui-component.ui-button.add-to-cart.tertiary-outlined.small.fill{
     width: 32px;
 }
 .slot.default{
-              
+                
 }
 </style>
