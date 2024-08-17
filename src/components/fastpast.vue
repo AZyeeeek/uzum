@@ -21,7 +21,7 @@
                   <img
                     data-v-3a87e086=""
                     class="fast_cat"
-                    src="https://ibb.co/16Q1N14"
+                    src="https://i.ibb.co/PQjKyKV/chilla.png"
                     alt=""
                   />
                 </div>
