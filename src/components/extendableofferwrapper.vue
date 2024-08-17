@@ -1531,7 +1531,7 @@
     font-weight: 300;
     overflow: hidden;
 }
-.hidden-mbs visible-mbl.raiting-wrapper{
+.hidden-mbs.visible-mbl.raiting-wrapper{
      line-height: 1;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -1593,4 +1593,5 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
 </style>
