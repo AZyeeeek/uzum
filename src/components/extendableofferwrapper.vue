@@ -161,7 +161,7 @@
                                 </svg>
                             </button>
                         </div>
-                        <div data-v-cee4be4c="" data-v-0204b731="" class="card-info-block is-vertical">
+                        <div data-v-cee4be4c="" data-v-0204b731="" class="card- is-vertical">
                             <div data-v-cee4be4c="" class="subtitle slightly regular small-semi-bold"><a
                                     data-v-63ab6fb4="" data-v-cee4be4c="" itemprop="name" ui-link=""
                                     href="/uz/product/ikki-kamerali-muzlatgich-144209" data-test-id="text__product-name"
@@ -1204,7 +1204,7 @@
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
     box-sizing: border-box;
-    height:80px;
+    height:120px;
     margin: 0;
     padding: 0;
     border: 0;
