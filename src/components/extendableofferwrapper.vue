@@ -1690,7 +1690,7 @@
     justify-content: space-between;
     margin-top: auto;
 }
-.product-card-price-info{
+div.product-card-price-info{
      line-height: 1;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -1707,7 +1707,7 @@
     display: flex;
     flex-direction: column;
 }
-.product-card-old-price-and-discount{
+div.product-card-old-price-and-discount{
      line-height: 1;
     user-select: none;
     -webkit-tap-highlight-color: transparent;
@@ -1726,7 +1726,7 @@
     gap: 4px;
     height: 16px;
 }
-.currency.product-card-old-price.regular{
+span.currency.product-card-old-price.regular{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
@@ -1746,7 +1746,7 @@
     color:#7e818c;
     line-height: 16px;
 }
-.currency.product-card-price.slightly.medium{
+span.currency.product-card-price.slightly.medium{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
@@ -1767,7 +1767,7 @@
     line-height: 120%;
     margin-top: 2px;
 }
-.ui-component.ui-button.add-to-cart.tertiary-outlined.small.fill{
+button.ui-component.ui-button.add-to-cart.tertiary-outlined.small.fill{
      user-select: none;
     -webkit-tap-highlight-color: transparent;
     outline: 0;
