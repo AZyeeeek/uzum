@@ -21,7 +21,7 @@
                   <img
                     data-v-3a87e086=""
                     class="fast_cat"
-                    src="https://drive.google.com/file/d/1-EJseql_J3dchVh0Osr_lYH36c7rOazU/view?usp=drive_link"
+                    src="https://ibb.co/16Q1N14"
                     alt=""
                   />
                 </div>
