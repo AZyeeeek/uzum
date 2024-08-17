@@ -1204,7 +1204,7 @@
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
     box-sizing: border-box;
-    height:130px;
+    height:240px;
     margin: 0;
     padding: 0;
     border: 0;
@@ -1490,5 +1490,107 @@
     display: flex;
     margin-top: 4px;
     overflow: hidden;
+}
+.product-card-secondary-info{
+     cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    display: flex;     
+}
+.product-card-rating {
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    -webkit-box-align: center;
+    align-items: center;
+    color: #7e818c;
+    display: flex;
+    flex-grow: 1;
+    font-family: Inter;
+    font-size: 11.2px;
+    font-weight: 300;
+    overflow: hidden;
+}
+.hidden-mbs visible-mbl.raiting-wrapper{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    color: #7e818c;
+    font-family: Inter;
+    font-weight: 300;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    align-items: center;
+    display: flex;
+    margin-right: 4px;
+}
+.ui-icon.rating-icon{
+     line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    color: #7e818c;
+    font-family: Inter;
+    font-weight: 300;
+    font-size: 100%;
+    font-style: inherit;
+    width: 14;
+    height: 14;
+    fill: none;
+    box-sizing: border-box;
+    outline: 0;
+    border: 0;
+    padding-bottom: 2px;
+}
+.orders__feedback-amount{
+         line-height: 1;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    text-align: start;
+    color: #7e818c;
+    font-family: Inter;
+    font-weight: 300;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    outline: none;
+    font-style: inherit;
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 </style>
