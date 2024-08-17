@@ -1160,7 +1160,7 @@
     border-radius: 8px;
     cursor: pointer;
     display: block;
-    height:350px;
+    height:450px;
     opacity: 1;
     overflow: hidden;
     position: relative;
