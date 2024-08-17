@@ -1204,7 +1204,7 @@
     -webkit-tap-highlight-color: transparent;
     cursor: pointer;
     box-sizing: border-box;
-    height:50px;
+    height:55px;
     margin: 0;
     padding: 0;
     border: 0;
