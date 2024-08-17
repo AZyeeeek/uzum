@@ -1160,7 +1160,7 @@
     border-radius: 8px;
     cursor: pointer;
     display: block;
-    height:450px;
+    height:600px;
     opacity: 1;
     overflow: hidden;
     position: relative;
@@ -1180,7 +1180,7 @@
     transition: box-shadow .3s ease;
     border: 0;
     background-color:#fff;
-    height: 450px;
+    height: 400px;
     padding: 0;
 }
 .product-card-image{
